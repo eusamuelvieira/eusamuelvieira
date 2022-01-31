@@ -12,7 +12,7 @@
   <img align="center" alt="Sam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Sam-pic" height="150" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/937167120905666611/937167228539912212/samavatar.png">
+       src="https://cdn.discordapp.com/attachments/937167120905666611/937760147265183865/IMG_2286.png">
 </div>
   
   ##
