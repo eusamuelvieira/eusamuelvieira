@@ -12,7 +12,7 @@
   <img align="center" alt="Sam-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Sam-pic" height="150" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/937167120905666611/937760147265183865/IMG_2286.png">
+       src="https://cdn.discordapp.com/attachments/937167120905666611/976614099863613490/WhatsApp_Image_2022-05-18_at_17.45.13.jpeg">
 </div>
   
   ##
